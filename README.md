@@ -1,4 +1,4 @@
 # Bitcoin_tracker
-Tracks price of bitcoin wrt to other cryptos and stable coins.
- Track prices of cryptos in realtime
- Made using REST APIs.
+<h4>Tracks price of bitcoin wrt to other cryptos and stable coins.</h4>
+<text> Track prices of cryptos in realtime
+ Made using REST APIs.</text>
